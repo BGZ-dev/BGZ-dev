@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/BGZ-dev/BGZ-dev/blob/output/dist/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/BGZ-dev/BGZ-dev/output/snake.svg" alt="Snake animation" />
 
 ###
