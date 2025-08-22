@@ -37,34 +37,5 @@
 
 <br clear="both">
 
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate the snake game
-        uses: Platane/snk@v3
-        with:
-          github_user_name: joao-neto0711
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
+![Snake animation](https://github.com/joao-neto0711/joao-neto0711/blob/output/dist/github-contribution-grid-snake.svg)
 ###
