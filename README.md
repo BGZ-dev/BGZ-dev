@@ -38,4 +38,5 @@
 <br clear="both">
 
 ![Snake animation](https://github.com/joao-neto0711/joao-neto0711/blob/output/dist/github-contribution-grid-snake.svg)
+
 ###
