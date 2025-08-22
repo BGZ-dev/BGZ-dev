@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/joao-neto0711/joao-neto0711/blob/output/dist/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://github.com/BGZ-dev/BGZ-dev/blob/output/dist/github-contribution-grid-snake.svg" width="100%" />
 
 ###
