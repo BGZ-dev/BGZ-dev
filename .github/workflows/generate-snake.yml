@@ -1,19 +1,15 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # Faz o checkout do repositório
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Roda a ação da cobrinha
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -21,7 +17,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      # Commit e push do resultado no branch 'output'
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
         with:
@@ -29,6 +24,6 @@ jobs:
           author_email: BGZ-dev@users.noreply.github.com
           message: "Update snake gif"
           add: "dist/github-contribution-grid-snake.svg"
-          branch: output
+          new_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
