@@ -38,4 +38,6 @@
 <br clear="both">
 
 ![snake gif](https://github.com/BGZ-dev/BGZ-dev/blob/output/github-contribution-grid-snake.svg)
+
+
 ###
