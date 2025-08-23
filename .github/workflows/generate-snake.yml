@@ -14,10 +14,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # importante para evitar problemas de permissão ao dar push
+          persist-credentials: false
 
       - name: Generate snake SVG
-        run: npx github-contribution-grid-snake --output dist/github-contribution-grid-snake.svg
+        run: npx github-contributions-canvas --output dist/github-contribution-grid-snake.svg
 
       - name: Commit and push changes
         run: |
