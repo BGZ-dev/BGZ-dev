@@ -16,8 +16,11 @@ jobs:
         with:
           persist-credentials: false
 
+      - name: Install gh-contributions
+        run: npm install -g gh-contributions
+
       - name: Generate snake SVG
-        run: npx github-contributions-canvas --output dist/github-contribution-grid-snake.svg
+        run: gh-contributions --output dist/github-contribution-grid-snake.svg
 
       - name: Commit and push changes
         run: |
