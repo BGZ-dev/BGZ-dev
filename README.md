@@ -37,6 +37,10 @@
 
 <br clear="both">
 
+## Contribution Snake
+
+Aqui está a cobrinha das contribuições:
+
 ![snake gif](dist/github-contribution-grid-snake.svg)
 
 ###
