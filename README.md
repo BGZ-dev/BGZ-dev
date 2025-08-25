@@ -37,7 +37,6 @@
 
 <br clear="both">
 
-## Contribution Snake
 
 ![snake.yml](https://github.com/BGZ-dev/BGZ-dev/blob/output/github-snake-dark.svg)
 
