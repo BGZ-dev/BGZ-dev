@@ -39,6 +39,6 @@
 
 ## Contribution Snake
 
-![generate-snake.yml](https://github.com/BGZ-dev/BGZ-dev/blob/output/github-contribution-grid-snake.svg)
+![snake.yml](https://github.com/BGZ-dev/BGZ-dev/blob/output/github-snake-dark.svg)
 
 ###
