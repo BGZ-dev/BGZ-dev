@@ -41,6 +41,6 @@
 
 Aqui está a cobrinha das contribuições:
 
-![Cobra dos commits](https://github.com/BGZ-dev/BGZ-dev/blob/output/github-contribution-grid-snake.svg)
+![generate-snake.yml](https://github.com/BGZ-dev/BGZ-dev/blob/output/github-contribution-grid-snake.svg)
 
 ###
