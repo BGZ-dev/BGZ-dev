@@ -37,6 +37,7 @@
 
 <br clear="both">
 
+---
 
 ![snake.yml](https://github.com/BGZ-dev/BGZ-dev/blob/output/github-snake-dark.svg)
 
