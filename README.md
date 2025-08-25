@@ -39,8 +39,6 @@
 
 ## Contribution Snake
 
-Aqui está a cobrinha das contribuições:
-
 ![generate-snake.yml](https://github.com/BGZ-dev/BGZ-dev/blob/output/github-contribution-grid-snake.svg)
 
 ###
