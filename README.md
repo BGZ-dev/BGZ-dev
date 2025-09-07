@@ -21,9 +21,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
+  <img src="https://raw.githubusercontent.com/pallets/flask/main/docs/_static/flask-icon.png" height="30" alt="flask logo" />
 </div>
-
 
 ###
 
