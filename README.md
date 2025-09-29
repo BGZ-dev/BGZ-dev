@@ -30,7 +30,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/not.borgez/#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=black&labelColor=white&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
