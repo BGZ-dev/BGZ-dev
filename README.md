@@ -10,7 +10,7 @@
 ###
 
 <img src="https://i.imgflip.com/a3w067.gif" 
-     height="300" 
+     height="400" 
      align="right" 
      style="margin-right:15px; margin-left:15px; margin-top:10px; margin-bottom:10px;" />
 
