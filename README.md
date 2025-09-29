@@ -11,8 +11,8 @@
 
 <img src="https://i.imgflip.com/a3w067.gif" 
      height="300" 
-     align="right" 
-     style="margin-right:15px; margin-left:15px; margin-top:20px; margin-bottom:10px;" />
+     align="center" 
+     style="margin-right:15px; margin-left:15px; margin-top:10px; margin-bottom:10px;" />
 
 ---
 
