@@ -10,10 +10,9 @@
 ---
 ###
 
-<img src="https://i.imgflip.com/a3w067.gif" 
-     height="300" 
-     align="center" 
-     style="margin-right:15px; margin-left:15px; margin-top:10px; margin-bottom:10px;" />
+<div align="center">
+  <img src="https://i.imgflip.com/a3w067.gif" height="300" />
+</div>
 
 ---
 
